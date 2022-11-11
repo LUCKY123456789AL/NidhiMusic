@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("OneShotFlash")
-                await self.one.join_chat("OneShotFlash_Chat")
+                await self.one.join_chat("DevilsHaveliMF")
+                await self.one.join_chat("DevilsServer")
             except:
                 pass
             assistants.append(1)
@@ -81,8 +81,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("OneShotFlash")
-                await self.two.join_chat("OneShotFlash_Chat")
+                await self.two.join_chat("DevilsHaveliMF")
+                await self.two.join_chat("DevilsServer")
             except:
                 pass
             assistants.append(2)
@@ -111,8 +111,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("OneShotFlash")
-                await self.three.join_chat("OneShotFlash_Chat")
+                await self.three.join_chat("DevilsHaveliMF")
+                await self.three.join_chat("DevilsServer")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("OneShotFlash")
-                await self.four.join_chat("OneShotFlash_Chat")
+                await self.four.join_chat("DevilsHaveliMF")
+                await self.four.join_chat("DevilsServer")
             except:
                 pass
             assistants.append(4)
@@ -171,8 +171,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("OneShotFlash")
-                await self.five.join_chat("OneShotFlash_Chat")
+                await self.five.join_chat("DevilsHaveliMF")
+                await self.five.join_chat("DevilsServer")
             except:
                 pass
             assistants.append(5)
