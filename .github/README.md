@@ -24,11 +24,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/OneShotFlash"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DevilsHaveliMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/itsneerja"><img src="https://img.shields.io/badge/%20Neerja-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/STD-DEEPANSHU"><img src="https://img.shields.io/badge/%20STD-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
