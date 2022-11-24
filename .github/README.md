@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ɴɪᴅʜɪ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴘɪᴋᴀᴄʜᴜ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
@@ -24,7 +24,7 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHaveliMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DevilsHaveliMF"><img src="https://t.me/+iG-f0LvRDiA3NjA1?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
